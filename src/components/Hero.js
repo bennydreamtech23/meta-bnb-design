@@ -19,7 +19,7 @@
     </h1>
     
     <p
-    className="general font-normal text-2xl lg:leading-9 md: leading-9 leading-8 p-5">
+    className="general font-normal text-2xl lg:leading-9 md: leading-9 leading-8">
     we provide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to reality at your comfort zone.
     </p>
     
