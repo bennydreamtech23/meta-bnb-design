@@ -26,7 +26,7 @@
     <div>
     <input type="text"
     placeholder="Search for location"
-    className="input-box px-5 py-3 lg:w-80 md:w-80 w-72 h-14"/>
+    className="input-box px-5 py-3 lg:w-80 md:w-80 w-60 h-14"/>
     
     <input type="submit" value="search"
     className="search-btn text-white px-5 py-3 w-56 mt-3 h-14"/>
