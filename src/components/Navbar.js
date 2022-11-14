@@ -49,7 +49,7 @@ const Navbar = () =>{
     </li>
    
      <li className="nav-item lg:mr-20">
-    <a href="#" 
+    <a href="" 
     className="general px-3 py-2 flex items-center text-xl font-normal
     leading-snug hover:opacity-75">
     NFTs
@@ -57,7 +57,7 @@ const Navbar = () =>{
     </li>
     
     <li className="nav-item lg:mr-36">
-    <a href="#" 
+    <a href="" 
     className="general px-3 py-2 flex items-center text-xl font-normal leading-snug hover:opacity-75">
     Community
     </a>
