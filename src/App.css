@@ -123,7 +123,7 @@ display: inline-block;
  }
  
 /*phone media query*/
-@media only screen and (max-width:600px){
+@media only screen and (max-width:540px){
   
   html, body {
     overflow-x:hidden;
@@ -148,6 +148,36 @@ display: inline-block;
 
 .hero-img{
   width: 300px;
-  height: 500px;
+  height: 420px;
+}
+}
+
+/*tablet media query*/
+@media only screen and (max-width:768px){
+  
+  html, body {
+    overflow-x:hidden;
+    width:100%; 
+    margin: 0;
+    padding: 0;
+}
+
+.modal-box{
+ background: #ffffff;
+ border: 1px solid #CFD8DC;
+ border-radius: 12px;
+ padding: 12px 20px;
+ width: 300px;
+ height:68px;
+}
+
+.hero-section{
+  width: 400px;
+  height:600px;
+}
+
+.hero-img{
+  width: 300px;
+  height: 700px;
 }
 }
