@@ -35,7 +35,7 @@
     
     {/*image section*/}
     <article 
-    className="items-center justify-center mx-auto h-full hero-img md:mt-10 mt-0 lg:mt-0">
+    className="items-center justify-center mx-auto h-full hero-img md:mt-20 mt-0 lg:mt-0">
     
     <img 
     src={HeroImg} alt="image1"/>
