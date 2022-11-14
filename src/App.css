@@ -142,7 +142,7 @@ display: inline-block;
 }
 
 .hero-section{
-  width: 350px;
+  width: 300px;
   height:650px;
 }
 
@@ -172,12 +172,11 @@ display: inline-block;
 }
 
 .hero-section{
-  width: 400px;
-  height:600px;
+  width:646px;
+  height:400px;
 }
 
 .hero-img{
-  width: 300px;
-  height: 500px;
+  width: 476px;
 }
 }
