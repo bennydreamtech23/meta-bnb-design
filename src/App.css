@@ -153,7 +153,7 @@ display: inline-block;
 }
 
 /*tablet media query*/
-@media only screen and (max-width:768px){
+@media only screen and (min-width:600px){
   
   html, body {
     overflow-x:hidden;
@@ -172,12 +172,12 @@ display: inline-block;
 }
 
 .hero-section{
-  width: 320px;
-  height:650px;
+  width:646px;
+  height:400px;
 }
 
 .hero-img{
-  width: 300px;
-  height: 550px;
+  width:476px;
 }
+
 }
