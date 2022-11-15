@@ -121,7 +121,7 @@ const Navbar = () =>{
    <div className="flex items-start justify-around p-5 modal-box"> 
    <div className="flex flex-row items-start justify-between">
    <img src={Wallet} alt="metamask"/>
-   <p className="my-2 text-black text-lg leading-6 font-semibold">Metamask</p>
+   <p className="my-2 text-black text-lg leading-6 font-semibold">WalletConnect</p>
    </div>
    
    <div className="flex flex-row items-start justify-between p-5">
